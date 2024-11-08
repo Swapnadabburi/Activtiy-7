@@ -1,0 +1,43 @@
+Continent,Literacy Rate,Healthcare,Transportation,Agriculture,Technology
+Africa,75,70,60,65,55
+Asia,85,80,75,70,65
+Europe,95,90,85,80,75
+North America,90,85,80,75,70
+South America,80,75,70,65,60
+Oceania,90,85,80,75,70
+Africa,70,65,55,75,70
+Asia,80,75,70,65,60
+Europe,90,85,80,75,70
+North America,85,80,75,70,65
+South America,75,70,65,60,55
+Oceania,85,80,75,70,65
+Africa,65,60,55,80,75
+Asia,75,70,65,60,55
+Europe,85,80,75,70,65
+North America,80,75,70,65,60
+South America,70,65,60,55,50
+Oceania,80,75,70,65,60
+Africa,60,55,50,85,80
+Asia,70,65,60,55,50
+Europe,80,75,70,65,60
+North America,75,70,65,60,55
+South America,65,60,55,50,45
+Oceania,75,70,65,60,55
+Africa,55,50,45,90,85
+Asia,65,60,55,50,45
+Europe,75,70,65,60,55
+North America,70,65,60,55,50
+South America,60,55,50,45,40
+Oceania,70,65,60,55,50
+Africa,50,45,40,95,90
+Asia,60,55,50,45,40
+Europe,70,65,60,55,50
+North America,65,60,55,50,45
+South America,55,50,45,40,35
+Oceania,65,60,55,50,45
+Africa,45,40,35,85,80
+Asia,55,50,45,40,35
+Europe,65,60,55,50,45
+North America,60,55,50,45,40
+South America,50,45,40,35,30
+Oceania,60,55,50,45,40
